@@ -25,5 +25,5 @@ Steganography is the technique of hiding data within non-secret data. In this to
 
 # Installation
 1. Make sure you have Python installed. If not, download it from: https://www.python.org/downloads/
-2. Install Pillow (image handling library): pip install pillow
-3. Run the application: python your_file_name.py
+2. Install Pillow (image handling library): pip  install pillow
+3. Run the application: python  your_file_name.py
